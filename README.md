@@ -14,7 +14,7 @@ You can copy this project and put it to your repository or create your own next.
 
 This repository is just an example how the next.js structure should look!
 
-# Caution !
+# ! Caution !
 Do not make any changes to this repository this is just an example!
 
 # API Endpoint:
